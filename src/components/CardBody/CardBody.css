@@ -1,0 +1,30 @@
+.App-logo {
+	width: 100%;
+}
+
+.card {
+	width: 300px;
+	border: 0.5px solid gray;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	margin-right: 15px;
+ }
+ 
+ .card-header {
+	width: 100%;
+ }
+ 
+ .card-text {
+	padding: 5px;
+ }
+ 
+ .card-button {
+	background-color: green;
+	color: white;
+	text-decoration: none;
+	padding: 7px;
+	border-radius: 7px;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-bottom: 10px;
+ }
